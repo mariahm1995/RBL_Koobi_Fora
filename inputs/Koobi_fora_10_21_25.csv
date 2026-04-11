@@ -1,0 +1,67 @@
+﻿Time,Time_Name,Lat,Long,Age_approx_oldest,Age_approx_new,Paleo_envir,Carnivoran Species (what species have been identified here),Family,RBL
+A,Lonyumun Moiti,3.95,36.19,4.3,3.6,woodland_grasses,Dinofelis petteri,Felidae,1
+A,Lonyumun Moiti,3.95,36.19,4.3,3.6,woodland_grasses,Homotherium sp,Felidae,1
+A,Lonyumun Moiti,3.95,36.19,4.3,3.6,woodland_grasses,Hyaena cf. hyaena,Hyaenidae,0.78970032
+A,Lonyumun Moiti,3.95,36.19,4.3,3.6,woodland_grasses,Enhydriodon cf. afman,Mustelidae,0.564393939
+A,Lonyumun Moiti,3.95,36.19,4.3,3.6,woodland_grasses,cf. Agriotherium sp.,Ursidae,0.6233275
+A,Lonyumun Moiti,3.95,36.19,4.3,3.6,woodland_grasses,Viverridae indet.,Viverridae,0.647684025
+B,Lokochot,3.95,36.19,3.6,3.44,woodland_grasses,Homotherium sp,Felidae,1
+B,Lokochot,3.95,36.19,3.6,3.44,woodland_grasses,Crocuta cf. dietrichi,Hyaenidae,0.894736842
+B,Lokochot,3.95,36.19,3.6,3.44,woodland_grasses,Hyaena sp,Hyaenidae,0.792098664
+B,Lokochot,3.95,36.19,3.6,3.44,woodland_grasses,Enhydriodon afman,Mustelidae,0.564393939
+B,Lokochot,3.95,36.19,3.6,3.44,woodland_grasses,Viverridae indet.,Viverridae,0.647684025
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Caracal or Leptailurus,Felidae,1
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Dinofelis petteri,Felidae,1
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Homotherium sp,Felidae,1
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Crocuta eturono,Hyaenidae,0.848837209
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Hyaena cf. hyaena,Hyaenidae,0.78970032
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,aff. Ictonyx,Mustelidae,0.5847909
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,aff. Plesiogulo,Mustelidae,0.64
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Enhydriodon cf. afman,Mustelidae,0.564393939
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,cf. Agriotherium sp.,Ursidae,0.6233275
+C,Tulu Bor,3.95,36.19,3.44,2.63,woodland_grasses,Viverridae indet. ,Viverridae,0.647684025
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Lupulella sp ,Canidae,0.668539326
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Acinonyx sp,Felidae,1
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Dinofelis aronoki,Felidae,1
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Dinofelis petteri,Felidae,1
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Homotherium sp,Felidae,1
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Panthera leo,Felidae,1
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Panthera pardus,Felidae,1
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Crocuta dietrichi,Hyaenidae,0.894736842
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Crocuta ultra,Hyaenidae,0.865
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Hyaena cf. makapani,Hyaenidae,0.795
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Enhydriodon cf. afman,Mustelidae,0.564393939
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Hydrictis gudho,Mustelidae,0.570512821
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Mellivora indet.,Mustelidae,0.7272771
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Torolutra cf. ougandensis,Mustelidae,0.667
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,cf. Civettictis,Viverridae,0.623
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Genetta genetta/maculata,Viverridae,0.748
+D,Burgi,3.95,36.19,2.63,1.87,woodland_grasses,Pseudocivetta ingens,Viverridae,0.516
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Lupulella sp ,Canidae,0.668539326
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Vulpes sp,Canidae,0.613735563
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Acinonyx sp. nov.,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Dinofelis aronoki,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Dinofelis petteri,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Homotherium sp,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Megantereon whitei,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Panthera leo,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Panthera pardus,Felidae,1
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Crocuta ultra,Hyaenidae,0.865
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Hyaena cf. hyaena,Hyaenidae,0.78970032
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Hyaena cf. makapani,Hyaenidae,0.795
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,cf. Aonyx,Mustelidae,0.594247969
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,cf. Hydrictis,Mustelidae,0.588844642
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Torolutra cf. ougandensis,Mustelidae,0.667
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Genetta nyakitongwer,Viverridae,0.655913978
+E,KBS,3.95,36.19,1.87,1.56,arid scrub_woodland_grassland,Pseudocivetta ingens,Viverridae,0.516
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Acinonyx sp. nov.,Felidae,1
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Dinofelis piveteaui,Felidae,1
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Homotherium sp,Felidae,1
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Megantereon whitei,Felidae,1
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Panthera leo,Felidae,1
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,cf. Parahyaena,Hyaenidae,0.84
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Crocuta ultra,Hyaenidae,0.865
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Hyaena sp,Hyaenidae,0.792098664
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,cf. Torolutra sp.,Mustelidae,0.667
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Mellivora indet,Mustelidae,0.7272771
+F,Okote,3.95,36.19,1.56,1.38,woodland_grasses,Genetta genetta/maculata,Viverridae,0.7409533

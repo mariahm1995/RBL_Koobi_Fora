@@ -1,0 +1,224 @@
+﻿TaxonName,RBL,IUCN,Percent_vert,Percent_nonvert,Diet,Diet_diversity,Body_size,Diet_breadth,Museum_Pub,N,Notes,Invert,Scav,Fruit,Nect,Seed,Plant,Vert,Diet_old,Diet_vert
+Conepatus_humboldtii,0.40871212,LC,10,90,hypo,3,328,,ADW image,1,measured from ADW image,1,0,1,0,0,0,1,Invert,hypo
+Hemigalus_derbyanus,0.419,NT,0,100,hypo,1,2322.5,,Friscia2007,3,,1,0,0,0,0,0,0,Invert,hypo
+Chrotogale_owstoni,0.4244728,EN,10,90,hypo,3,3250,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Invert,hypo
+Bassaricyon_neblina,0.4523967,NT,10,NA,hypo,0,NA,****,Slater&Friscia2019,U,diet presumed from other members of genus & Handbook of the Mammals of the World,,,,,,,,Omn,hypo
+Bassaricyon_alleni,0.4560111,LC,10,90,hypo,3,1235.01,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Omn,hypo
+Nasuella_olivacea,0.471,NT,20,80,hypo,3,1339.99,,Friscia2007,1,,1,0,1,0,0,0,1,Omn,hypo
+Diplogale_hosei,0.4778862,VU,40,60,hypo,2,3124.89,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Invert,meso
+Bdeogale_nigripes,0.478,LC,40,60,hypo,2,2500,,Friscia2007,10,,1,0,0,0,0,0,1,Invert,meso
+Helarctos_malayanus,0.479,VU,20,80,hypo,4,46500,,Wroe2008,U,,1,0,1,0,1,0,1,Omn,hypo
+Ursus_arctos,0.48,LC,10,90,hypo,4,180520.42,,VV1989,2,,1,0,1,0,0,1,1,Plant,hypo
+Ursus_americanus,0.48,LC,20,80,hypo,3,99949.36,,VV1989,2,"Used VV 1989, Slater 2019 does not seem to have sample size",0,0,1,0,0,1,1,Plant,hypo
+Bassaricyon_medius,0.4816477,LC,10,NA,hypo,0,NA,****,Slater&Friscia2019,U,diet presumed from other members of genus & Handbook of the Mammals of the World,,,,,,,,Omn,hypo
+Crossarchus_obscurus,0.485,LC,20,80,hypo,3,1250,,Friscia2007,9,,1,0,1,0,0,0,1,Invert,hypo
+Arctonyx_albogularis,0.488163708,LC,20,80,hypo,0,NA,,Ely2019,2,"Mean; has formerly been sbsp of A. collaris, using A. collaris diet",,,,,,,,Omn,hypo
+Conepatus_chinga,0.490533491,LC,10,90,hypo,3,1917.52,,Ely2019,13,Mean,1,0,1,0,0,0,1,Invert,hypo
+Bassaricyon_gabbii,0.4927883,LC,10,90,hypo,3,1250,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Omn,hypo
+Potos_flavus,0.496,LC,10,90,hypo,3,3000,,Friscia2007,4,,1,0,1,0,0,0,1,Plant,hypo
+Cynogale_bennettii,0.507,EN,50,50,meso,3,4500,,Friscia2007,1,,1,0,1,0,0,0,1,Omn,meso
+Crossarchus_platycephalus,0.516441,LC,50,50,meso,2,1250,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Omn,meso
+Tremarctos_ornatus,0.52,VU,0,100,hypo,2,140000.63,,VV1989,2,,0,0,1,0,0,1,0,Plant,hypo
+Ursus_thibetanus,0.52,VU,20,80,hypo,5,77500,,VV1989,2,,1,1,1,0,0,1,1,Omn,hypo
+Ursus_maritimus,0.52,VU,100,0,hyper,1,388750.36,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Mydaus_marchei,0.5207515,LC,0,100,hypo,2,1414.2,,Slater&Friscia2019,U,,1,0,0,0,0,1,0,Invert,hypo
+Nasua_narica,0.524,LC,20,80,hypo,3,4030.05,,Friscia2007,8,,1,0,1,0,0,0,1,Omn,hypo
+Conepatus_semistriatus,0.524664,LC,10,90,hypo,3,1200,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Invert,hypo
+Liberiictis_kuhni,0.5267035,VU,20,80,hypo,2,2150.01,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Invert,hypo
+Arctonyx_collaris,0.529637736,VU,20,80,hypo,4,6356,,Ely2019,13,Mean,1,0,1,0,0,1,1,Omn,hypo
+Otocyon_megalotis,0.529641169,LC,30,70,hypo,3,4150.02,,XXXX,XXX,Measured from dissertation specimens,1,0,0,0,0,1,1,Omn,hypo
+Meles_meles,0.53046852,LC,40,60,hypo,5,13000,,Ely2019,14,"Used Ely 2019 b/c biggest sample size: technically M. meles & M. canescens separated into diff species, not recognized in IUCN, so keeping together here",1,0,1,0,1,1,1,Omn,meso
+Conepatus_leuconotus,0.531,LC,10,90,hypo,3,3500.02,,Friscia2007,5,,1,0,1,0,0,0,1,Invert,hypo
+Rhynchogale_melleri,0.535,LC,30,70,hypo,3,2500,,Friscia2007,4,,1,0,1,0,0,0,1,Omn,hypo
+Mephitis_macroura,0.5380951,LC,30,70,hypo,5,801.25,,Slater&Friscia2019,U,,1,0,1,0,1,1,1,Omn,hypo
+Mydaus_javanensis,0.541359334,LC,0,100,hypo,2,2500,,Ely2019,3,mean,1,0,0,0,0,1,0,Invert,hypo
+Crossarchus_alexandri,0.5437513,LC,20,80,hypo,3,1500,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Invert,hypo
+Viverra_zibetha,0.544,LC,80,20,hyper,3,9500,,Friscia2007,3,Used Friscia 2007 b/c biggest sample size,1,0,1,0,0,0,1,Meso,hyper
+Mungotictis_decemlineata,0.548,EN,20,80,hypo,2,650,,Friscia2007,3,,1,0,0,0,0,0,1,Invert,hypo
+Meles_anakuma,0.55033557,LC,0,100,hypo,2,13000,,Ely2019,1,,1,0,1,0,0,0,0,Invert,hypo
+Aonyx_cinereus,0.5569973,VU,20,80,hypo,2,3527.59,,Ely2019,18,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Invert,hypo
+Crossarchus_ansorgei,0.55810185,LC,20,80,hypo,3,700,,"Van Rompaey, H. & Colyn, M. (1992). Crossarchus ansorgei. Mammalian Species. 402: 1-3.",1,measured from image in manuscript,1,0,1,0,0,0,1,Invert,hypo
+Bdeogale_crassicauda,0.5641334,LC,20,80,hypo,2,1549.99,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Invert,hypo
+Lycalopex_vetulus,0.565,LC,60,40,meso,4,4233.47,,Friscia2007,7,,1,0,1,0,0,1,1,Meso,meso
+Procyon_cancrivorus,0.5688053,LC,30,70,hypo,4,6949.92,,Slater&Friscia2019,U,,1,0,1,0,1,0,1,Omn,hypo
+Eupleres_major,0.569,EN,10,90,hypo,0,NA,,Taylor2016,2,"Formerly E. goudotii sbsp, using E. goudotii diet",,,,,,,,Invert,hypo
+Salanoia_concolor,0.569,VU,30,70,hypo,3,650,,Friscia2007,8,Used Friscia 2007 b/c biggest sample size,1,0,1,0,0,0,1,Omn,hypo
+Dologale_dybowskii,0.57,DD,60,40,meso,2,NA,,Friscia2007,2,"**Falkland Island wolf (Dusicyon australis), would be next alphabetically, but it is extinct & has been removed, RBL = 0.7125658",1,0,0,0,0,0,1,Meso,meso
+Chrysocyon_brachyurus,0.57,NT,70,30,meso,4,23249.84,,VV1989,2,,1,0,1,0,0,1,1,Meso,hyper
+Paguma_larvata,0.571,LC,60,40,meso,3,4300,,Friscia2007,3,,1,0,1,0,0,0,1,Meso,meso
+Urocyon_littoralis,0.572,NT,30,70,hypo,5,1896,,Friscia2007,10,,1,0,1,0,1,1,1,Omn,hypo
+Viverricula_indica,0.572,LC,60,40,meso,5,2908.43,,Friscia2007,5,Used Friscia 2007 b/c biggest sample size,1,1,1,0,0,1,1,Meso,meso
+Paradoxurus_jerdoni,0.57274581,LC,40,60,hypo,4,2780.75,,ADW,1,measured from ADW image,1,0,1,0,1,0,1,Omn,meso
+Lontra_felina,0.5774783,EN,30,70,hypo,2,30600,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Invert,hypo
+Ictonyx_libycus,0.5847909,LC,60,40,meso,2,2062.5,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Meso,meso
+Lontra_provocax,0.5875162,EN,50,50,meso,2,7499.98,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Omn,meso
+Herpestes_vitticollis,0.5881514,LC,60,40,meso,3,2575.59,,Slater&Friscia2019,,,1,0,1,0,0,0,1,Meso,meso
+Hydrictis_maculicollis,0.588844642,NT,90,10,hyper,2,4180.53,,Ely2019,13,Mean,1,0,0,0,0,0,1,Hyper,hyper
+Lontra_canadensis,0.589893,LC,100,0,hyper,1,8087.42,,Ely2019,15,Used Ely 2019 b/c biggest sample size,0,0,0,0,0,0,1,Hyper,hyper
+Cerdocyon_thous,0.59,LC,50,50,meso,3,5239.98,,VV1989,2,,1,1,0,0,0,0,1,Omn,meso
+Spilogale_putorius,0.5918,VU,40,60,hypo,3,341,,Ely2019,11,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,1,1,Omn,meso
+Fossa_fossana,0.593,VU,20,80,hypo,3,1500,,Friscia2007,10,Used Friscia 2007 b/c biggest sample size,1,0,1,0,0,0,1,Invert,hypo
+Arctogalidia_trivirgata,0.5932672,LC,60,40,meso,3,2250,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Meso,meso
+Lutrogale_perspicillata,0.5952465,VU,70,30,meso,2,9483.33,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Meso,hyper
+Paradoxurus_hermaphroditus,0.596,LC,40,60,hypo,4,3156.66,,Friscia2007,6,,1,0,1,0,1,0,1,Omn,meso
+Mephitis_mephitis,0.596505274,LC,30,70,hypo,5,2085.02,,Ely2019,15,mean,1,0,1,0,1,1,1,Omn,hypo
+Viverra_tangalunga,0.5988859,LC,70,30,meso,4,6885,,Slater&Friscia2019,U,,1,0,1,0,0,1,1,Meso,hyper
+Paradoxurus_zeylonensis,0.6052802,LC,40,60,hypo,4,2780.75,,Slater&Friscia2019,U,,1,0,1,0,1,0,1,Omn,meso
+Herpestes_fuscus,0.6100471,LC,60,40,meso,3,1984.74,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Meso,meso
+Aonyx_capensis,0.611443726,NT,20,80,hypo,2,18999.84,,Ely2019,12,N,1,0,0,0,0,0,1,Invert,hypo
+Nyctereutes_procyonoides,0.612,LC,40,60,hypo,4,4040,,Friscia2007,6,Used Friscia 2007 b/c biggest sample size,1,0,1,0,1,0,1,Omn,meso
+Ailurus_fulgens,0.613,EN,10,90,hypo,5,4900,,Friscia2007,5,N,1,0,1,0,1,1,1,Plant,hypo
+Urocyon_cinereoargenteus,0.613,LC,30,70,hypo,5,3833.72,,Friscia2007,10,,1,0,1,0,1,1,1,Omn,hypo
+Aonyx_congicus,0.61430288,NT,20,80,hypo,0,NA,,"Lariviere, Serge (2001). Aonyx congicus. Mammalian Specis. 650 (1-3).",1,"measured from image in manuscript; formerly subspecies of A. capensis, using A. capensis diet",,,,,,,,Invert,hypo
+Bassariscus_sumichrasti,0.6145268,LC,10,90,hypo,3,899.99,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Omn,hypo
+Lontra_longicaudis,0.615376797,NT,90,10,hyper,2,6554.96,,Ely2019,15,,1,0,0,0,0,0,1,Hyper,hyper
+Eupleres_goudotii,0.616,VU,10,90,hypo,2,3000,,Taylor2016,9,Used Taylor 2016 b/c biggest sample size,1,0,0,0,0,0,1,Invert,hypo
+Herpestes_brachyurus,0.6163624,NT,60,40,meso,3,1853.52,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Meso,meso
+Melursus_ursinus,0.618,VU,0,100,hypo,3,93130,,Sacco2004,18,"Used Sacco 2004, bigger sample size",1,0,1,0,0,1,0,Invert,hypo
+Lycalopex_sechurae,0.6201816,NT,60,40,meso,4,4234,,Slater&Friscia2019,U,Used Slater 2019 b/c other option was a dissertation,1,0,1,0,0,1,1,Meso,meso
+Herpestes_javanicus,0.621,LC,60,40,meso,3,750,,Friscia2007,5,,1,0,1,0,0,0,1,Meso,meso
+Civettictis_civetta,0.623,LC,50,50,meso,5,11999.97,,Friscia2007,6,Used Friscia 2007 b/c biggest sample size,1,1,1,0,0,1,1,Omn,meso
+Herpestes_naso,0.623,LC,60,40,meso,3,2999.99,,Friscia2007,4,,1,0,1,0,0,0,1,Meso,meso
+Vulpes_chama,0.623931,LC,70,30,meso,2,2955.02,,Friscia2007,10,,1,0,0,0,0,0,1,Meso,hyper
+Vulpes_vulpes,0.629,LC,70,30,meso,3,5476.17,,Friscia2007,10,Used Friscia 2007 b/c biggest sample size,1,0,1,0,0,0,1,Meso,hyper
+Lycalopex_fulvipes,0.6296927,EN,60,40,meso,3,5146.58,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Meso,meso
+Melogale_moschata,0.6314601,LC,30,70,hypo,3,805.25,,Ely2019,17,Used Ely 2019 b/c biggest sample size,1,0,1,0,0,0,1,Omn,hypo
+Procyon_lotor,0.632,LC,20,80,hypo,4,5524.97,,Friscia2007,5,Used Friscia 2007 b/c biggest sample size,1,0,1,0,1,0,1,Omn,hypo
+Arctictis_binturong,0.632,VU,50,50,meso,4,9875,,Friscia2007,4,Used Friscia 2007 b/c biggest sample size,0,1,1,0,0,1,1,Omn,meso
+Ailuropoda_melanoleuca,0.634,VU,10,90,hypo,2,108400,,Sacco2004,17,N,0,0,0,0,0,1,1,Plant,hypo
+Lycalopex_gymnocercus,0.6345991,LC,50,50,meso,3,4542.67,,Slater&Friscia2019,U,Used Slater 2019 b/c other option was a dissertation,0,0,1,0,0,1,1,Omn,meso
+Ichneumia_albicauda,0.635,LC,20,80,hypo,3,3500.02,,Friscia2007,12,,1,0,1,0,0,0,1,Meso,hypo
+Herpestes_edwardsii,0.635,LC,70,30,meso,3,1304.67,,Friscia2007,2,,1,0,1,0,0,0,1,Meso,hyper
+Lutra_lutra,0.635308278,NT,70,30,meso,2,8785.14,,Ely2019,14,mean,1,0,0,0,0,0,1,Meso,hyper
+Speothos_venaticus,0.637,NT,100,0,hyper,1,5999.98,,Friscia2007,7,Used Friscia 2007 b/c biggest sample size,0,0,0,0,0,0,1,Hyper,hyper
+Herpestes_pulverulentus,0.6387102,LC,20,80,hypo,3,NA,,Slater&Friscia2019,U,genus Galerella in EltonTraits,1,0,0,0,0,1,1,Invert,hypo
+Enhydra_lutris,0.6396558,EN,50,50,meso,2,23500,,Ely2019,8,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Omn,meso
+Bassariscus_astutus,0.64,LC,10,90,hypo,3,1129.51,,Friscia2007,4,,1,0,1,0,0,0,1,Omn,hypo
+Galidictis_fasciata,0.64,VU,70,30,meso,2,550,,Friscia2007,5,Used Friscia 2007 b/c biggest sample size,1,0,0,0,0,0,1,Meso,hyper
+Canis_aureus,0.64,LC,80,20,hyper,3,10345.23,,VV1989,2,,1,0,1,0,0,0,1,Meso,hyper
+Herpestes_urva,0.6414276,LC,60,40,meso,3,1863.2,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Meso,meso
+Lycalopex_griseus,0.6416532,LC,60,40,meso,4,5146.58,,Slater&Friscia2019,U,,1,0,1,0,0,1,1,Meso,meso
+Vulpes_macrotis,0.642,LC,70,30,meso,2,4499.97,,Friscia2007,10,,1,0,0,0,0,0,1,Meso,hyper
+Pteronura_brasiliensis,0.642302924,EN,60,40,meso,2,23999.93,,Ely2019,13,mean,1,0,0,0,0,0,1,Meso,meso
+Melogale_personata,0.6427669,LC,30,70,hypo,3,1702.5,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Omn,hypo
+Atelocynus_microtis,0.6445953,NT,80,20,hyper,2,7749.97,,Slater&Friscia2019,U,Used Slater 2019 b/c other option was a dissertation,0,0,0,0,0,1,1,Meso,hyper
+Lutra_sumatrana,0.644904459,EN,70,30,meso,2,5500,,Ely2019,1,,1,0,0,0,0,0,1,Meso,hyper
+Ictonyx_striatus,0.6458003,LC,60,40,meso,2,1299.99,,Ely2019,20,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Meso,meso
+Taxidea_taxus,0.6472856,LC,90,10,hyper,2,7107.55,,Ely2019,15,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Hyper,hyper
+Nandinia_binotata,0.649,LC,10,90,hypo,3,2000,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Hyper,hypo
+Genetta_thierryi,0.6503781,LC,90,10,hyper,2,1400.01,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Hyper,hyper
+Poiana_richardsonii,0.652,LC,20,80,hypo,4,500,,Friscia2007,1,,1,0,0,0,1,1,1,Omn,hypo
+Herpestes_auropunctatus,0.65217391,LC,60,40,meso,0,750,,"Nellis, D.W. (1989). Herpestes auropunctatus. Mammalian Species. 342: 1-6.",1,measured from image in manuscript,,,,,,,,Meso,meso
+Melogale_orientalis,0.653307138,LC,30,70,hypo,3,2000,,Ely2019,7,mean,1,0,1,0,0,0,1,Omn,hypo
+Vulpes_zerda,0.655,LC,50,50,meso,3,1100,,Friscia2007,8,,1,0,0,0,0,1,1,Omn,meso
+Galidia_elegans,0.656,LC,80,20,hyper,3,800,,Friscia2007,11,Used Friscia 2007 b/c biggest sample size,1,0,1,0,0,0,1,Meso,hypo
+Vulpes_pallida,0.656,LC,80,20,hyper,2,2800.01,,Friscia2007,10,,0,0,0,0,0,1,1,Meso,hyper
+Spilogale_gracilis,0.65625131,LC,40,60,hypo,3,466.5,,Ely2019,4,mean,1,0,0,0,0,1,1,Omn,meso
+Galidictis_grandidieri,0.657,EN,70,30,meso,2,1400,,Taylor2016,1,,1,0,0,0,0,0,1,Meso,hyper
+Vormela_peregusna,0.6576969,VU,100,0,hyper,1,450.38,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Mustela_felipei,0.6597353,VU,100,0,hyper,1,211.3,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Nasua_nasua,0.66,LC,20,80,hypo,3,3793.85,,VV1989,2,,1,0,1,0,0,0,1,Omn,hypo
+Canis_adustus,0.66,LC,50,50,meso,4,10249.91,,VV1989,2,,1,1,0,0,0,1,1,Omn,meso
+Canis_mesomelas,0.66,LC,60,40,meso,4,8500.02,,VV1989,2,,1,1,0,0,0,1,1,Meso,meso
+Viverra_megaspila,0.66,EN,70,30,meso,4,9250,,VV1989,2,"Used VV 1989, Slater 2019 does not seem to have sample size",1,0,1,0,0,1,1,Meso,hyper
+Canis_latrans,0.66,LC,100,0,hyper,2,13406.33,,VV1989,2,,0,1,0,0,0,0,1,Hyper,hyper
+Canis_simensis,0.664,EN,100,0,hyper,1,10000,,Balisi2018,U,,0,0,0,0,0,0,1,Hyper,hyper
+Vulpes_bengalensis,0.666,LC,60,40,meso,3,2726,,Friscia2007,7,,1,0,1,0,0,0,1,Meso,meso
+Canis_lupaster,0.667699756,LC,80,20,hyper,0,NA,,FMNH,XXXX,"measured from FMNH specimens; previously C. aureus sbsp, using C. aureus diet",,,,,,,,Meso,hyper
+Genetta_piscivora,0.6695253,NT,100,0,hyper,1,1648.05,,Van Rompaey (1988). Osbornictis piscivora. Mammalian Species. 309: 1-4.,1,measured from image in manuscript,0,0,0,0,0,0,1,Hyper,hyper
+Martes_zibellina,0.6720664,LC,80,20,hyper,3,1130,,Slater&Friscia2019,U,,0,0,1,0,1,0,1,Meso,hyper
+Genetta_pardina,0.6753606,LC,70,30,meso,3,1821.97,,Slater&Friscia2019,U,,1,0,1,0,0,0,1,Meso,hyper
+Vulpes_rueppellii,0.677,LC,60,40,meso,3,3249.97,,Friscia2007,10,,1,0,0,0,0,1,1,Meso,meso
+Vulpes_velox,0.6788068,LC,90,10,hyper,2,2197.51,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Hyper,hyper
+Mustela_strigidorsa,0.6797101,LC,100,0,hyper,1,1500,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Lycalopex_culpaeus,0.68,LC,80,20,hyper,3,8616.24,,VV1989,2,,1,0,1,0,0,0,1,Meso,hyper
+Martes_foina,0.6851285,LC,70,30,meso,3,1540.8,,Slater&Friscia2019,U,,0,0,1,0,0,1,1,Meso,hyper
+Eira_barbara,0.6870654,LC,90,10,hyper,2,3910.03,,Ely2019,15,Used Ely 2019 b/c biggest sample size,0,0,1,0,0,0,1,Hyper,hyper
+Paracynictis_selousi,0.689,LC,40,60,hypo,2,1639.99,,Friscia2007,15,,1,0,0,0,0,0,1,Invert,meso
+Canis_rufus,0.690713627,CR,100,NA,hyper,0,NA,****,XXXX,XXXX,"measured from dissertations specimens; previously C. lupus sbsp, diet C. lupus",,,,,,,,Hyper,hyper
+Vulpes_corsac,0.693,LC,70,30,meso,2,2400,,Friscia2007,3,,0,0,0,0,0,1,1,Meso,hyper
+Martes_americana,0.6960984,LC,70,30,meso,4,1250,,Ely2019,15,Used Ely 2019 b/c biggest sample size,1,1,1,0,0,0,1,Meso,hyper
+Vulpes_lagopus,0.701449,LC,90,10,hyper,3,3584.37,,Slater&Friscia2019,U,Used Slater 2019 b/c other option was a dissertation,1,1,0,0,0,0,1,Hyper,hyper
+Galictis_cuja,0.701609496,LC,60,40,meso,3,1000,,Ely2019,15,Mean,1,0,1,0,0,0,1,Meso,meso
+Cynictis_penicillata,0.702,LC,10,90,hypo,2,836.01,,Friscia2007,11,,1,0,0,0,0,0,1,Invert,hypo
+Suricata_suricatta,0.702,LC,20,80,hypo,3,725.5,,Friscia2007,8,,1,0,0,0,0,1,1,Invert,hypo
+Mustela_lutreola,0.7025641,CR,80,20,hyper,2,440,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Meso,hyper
+Mustela_kathiah,0.708238874,LC,100,0,hyper,1,208.08,,Ely2019,10,mean,0,0,0,0,0,0,1,Hyper,hyper
+Vulpes_cana,0.712,LC,10,90,hypo,4,936.85,,Friscia2007,1,,1,0,1,0,0,1,1,Omn,meso
+Mustela_africana,0.7131902,LC,100,0,hyper,1,536.99,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Mustela_eversmanii,0.713215,LC,100,0,hyper,1,1684.21,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Neovison_vison,0.7141165,LC,90,10,hyper,2,1150,,Ely2019,17,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Hyper,hyper
+Mustela_frenata,0.71416535,LC,100,0,hyper,1,147,,Ely2019,15,,0,0,0,0,0,0,1,Hyper,hyper
+Martes_melampus,0.715392782,LC,30,70,hypo,3,1000,,Ely2019,2,mean,1,0,1,0,0,0,1,Omn,hypo
+Galictis_vittata,0.718449276,LC,60,40,meso,3,3200,,Ely2019,15,Mean,1,0,1,0,0,0,1,Meso,meso
+Martes_flavigula,0.719818617,LC,80,20,hyper,3,1842.5,,Ely2019,15,mean,1,0,1,0,0,0,1,Meso,hyper
+Canis_lupus,0.72,LC,100,0,hyper,1,32183.33,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Lycaon_pictus,0.72,EN,100,0,hyper,1,22050.07,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Poecilogale_albinucha,0.721961839,LC,90,10,hyper,2,340,,Ely2019,15,mean,1,0,0,0,0,0,1,Hyper,hyper
+Atilax_paludinosus,0.725,LC,60,40,meso,2,3299.97,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Meso,meso
+Herpestes_ichneumon,0.726,LC,60,40,meso,3,5174.98,,Friscia2007,13,,1,0,1,0,0,0,1,Meso,meso
+Mustela_erminea,0.7268221,LC,90,10,hyper,2,119.38,,Ely2019,15,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Hyper,hyper
+Mellivora_capensis,0.7272771,LC,70,30,meso,4,8500,,Ely2019,15,Used Ely 2019 b/c biggest sample size,1,1,0,0,0,1,1,Meso,hyper
+Martes_martes,0.727292235,LC,60,40,meso,2,1300,,Ely2019,4,mean,0,0,1,0,0,0,1,Meso,meso
+Mustela_altaica,0.7283157,NT,100,0,hyper,1,171,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Mustela_nivalis,0.7287199,LC,100,0,hyper,1,103.88,,Ely2019,14,Used Ely 2019 b/c biggest sample size,0,0,0,0,0,0,1,Hyper,hyper
+Martes_pennanti,0.7292458,LC,100,0,hyper,2,4000,,Ely2019,13,Used Ely 2019 b/c biggest sample size,0,1,0,0,0,0,1,Hyper,hyper
+Mustela_sibirica,0.730310201,LC,100,0,hyper,1,405,,Ely2019,15,mean,0,0,0,0,0,0,1,Hyper,hyper
+Mustela_nudipes,0.7308952,LC,100,0,hyper,1,500,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Genetta_tigrina,0.731,LC,90,10,hyper,2,2225,,Friscia2007,1,,1,0,0,0,0,0,1,Hyper,hyper
+Vulpes_ferrilata,0.738,LC,100,0,hyper,1,5000,,Friscia2007,3,Used Friscia 2007 b/c biggest sample size,0,0,0,0,0,0,1,Hyper,hyper
+Genetta_angolensis,0.739,LC,90,10,hyper,2,1649.99,,Friscia2007,7,,1,0,0,0,0,0,1,Hyper,hyper
+Genetta_servalina,0.739,LC,90,10,hyper,2,1054.99,,Friscia2007,8,,1,0,0,0,0,0,1,Hyper,hyper
+Cuon_alpinus,0.74,EN,100,0,hyper,2,14173.33,,VV1989,2,,0,1,0,0,0,0,1,Hyper,hyper
+Genetta_genetta,0.744,LC,90,10,hyper,2,1800,,Friscia2007,23,,1,0,0,0,0,0,1,Hyper,hyper
+Mungos_mungo,0.745,LC,20,80,hypo,2,1925,,Friscia2007,8,,1,0,0,0,0,0,1,Invert,hypo
+Herpestes_sanguineus,0.75,LC,20,80,hypo,3,NA,,Friscia2007,14,genus Galerella in EltonTraits,1,0,0,0,0,1,1,Invert,hypo
+Genetta_maculata,0.752,LC,90,10,hyper,2,2225,,Friscia2007,14,,1,0,0,0,0,0,1,Hyper,hyper
+Mustela_nigripes,0.7612878,EN,100,0,hyper,1,850,,Ely2019,8,Used Ely 2019 b/c biggest sample size,0,0,0,0,0,0,1,Hyper,hyper
+Prionodon_linsang,0.764,LC,70,30,meso,2,700,,Friscia2007,1,,1,0,0,0,0,0,1,Meso,hyper
+Prionodon_pardicolor,0.7726614,LC,70,30,meso,2,512,,Slater&Friscia2019,U,,1,0,0,0,0,0,1,Meso,hyper
+Helogale_parvula,0.784,LC,20,80,hypo,3,300,,Friscia2007,6,,1,0,1,0,0,0,1,Invert,hypo
+Gulo_gulo,0.785187,LC,80,20,hyper,3,17012.56,,Ely2019,15,Used Ely 2019 b/c biggest sample size,0,1,1,0,0,0,1,Meso,hyper
+Mustela_putorius,0.787276,LC,90,10,hyper,2,915.37,,Ely2019,15,Used Ely 2019 b/c biggest sample size,1,0,0,0,0,0,1,Hyper,hyper
+Hyaena_hyaena,0.79,NT,80,20,hyper,4,41705.11,,VV1989,2,,1,1,1,0,0,0,1,Meso,hyper
+Helogale_hirtula,0.827,LC,20,80,hypo,3,289,,Friscia2007,12,,1,0,1,0,0,0,1,Invert,hypo
+Cryptoprocta_ferox,0.828,VU,90,10,hyper,2,9500,,Friscia2007_Taylor2016,17,"Weighted mean of Friscia et al., 2007 (RBL = 0.807, N = 11) and Taylor, 2016 (RBL = 0.867, N = 6)",1,0,0,0,0,0,1,Hyper,hyper
+Parahyaena_brunnea,0.84,NT,80,20,hyper,4,42977.93,,VV1989,2,"Used VV 1989 b/c bigger sample size; updated taxonomy Hyaena brunnea, but IUCN range map under P. brunnea",1,1,1,0,0,0,1,Meso,hyper
+Crocuta_crocuta,0.92,LC,100,0,hyper,1,66492.06,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Herpailurus_yagouaroundi,1,LC,80,20,hyper,3,6875,,VV1989,2,,1,0,1,0,0,0,1,Meso,hyper
+Leopardus_wiedii,1,NT,80,20,hyper,3,3249.97,,Slater&Friscia2019,U,,0,0,2,0,0,0,1,Meso,hyper
+Prionailurus_viverrinus,1,VU,80,20,hyper,2,9140.33,,VV1989,2,,1,0,0,0,0,0,1,Meso,hyper
+Felis_lybica,1,LC,90,10,hyper,0,NA,,NMK,5,self measured in NMK,,,,,,,,Hyper,hyper
+Felis_silvestris,1,LC,90,10,hyper,2,5099.99,,Slater&Friscia2019,1,,1,0,0,0,0,0,1,Hyper,hyper
+Acinonyx_jubatus,1,VU,100,0,hyper,1,46700,,VV1989,2,N,0,0,0,0,0,0,1,Hyper,hyper
+Caracal_aurata,1,VU,100,0,hyper,1,NA,,VV1989,2,Profelis aurata in EltonTraits,0,0,0,0,0,0,1,Hyper,hyper
+Caracal_caracal,1,LC,100,0,hyper,1,13749.91,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Catopuma_badia,1,EN,100,0,hyper,1,2500,,Slater&Friscia2019,U,,0,1,0,0,0,0,0,Hyper,hyper
+Catopuma_temminckii,1,NT,100,0,hyper,1,11500,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Felis_chaus,1,LC,100,0,hyper,1,7392.98,,Slater&Friscia2019,1,,0,0,0,0,0,0,1,Hyper,hyper
+Felis_margarita,1,LC,100,0,hyper,1,2524.99,,Slater&Friscia2019,1,,0,0,0,0,0,0,1,Hyper,hyper
+Felis_nigripes,1,VU,100,0,hyper,1,1299.99,,Slater&Friscia2019,1,,0,0,0,0,0,0,1,Hyper,hyper
+Leopardus_colocolo,1,NT,100,0,hyper,1,5157.94,,https://eol.org/media/28236677,1,measured from USNM specimen on eol.org,0,0,0,0,0,0,1,Hyper,hyper
+Leopardus_geoffroyi,1,LC,100,0,hyper,1,5157.94,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Leopardus_guigna,1,VU,100,0,hyper,1,5157.94,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Leopardus_jacobita,1,EN,100,0,hyper,1,8133.78,,"Tellaeche, C.G., Reppucci, J.I., Morales, M.M., Luengos Vidal, E.M., Lucherini, M. (2018). External and skull morphology of the Andean cat and Pampas cat: New data from the high Andes of Argentina. Journal of Mammalogy. 99.4: 906-914.",2,measured from image in manuscript,0,0,0,0,0,0,1,Hyper,hyper
+Leopardus_pardalis,1,LC,100,0,hyper,1,11900.08,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Leopardus_tigrinus,1,VU,100,0,hyper,1,2250,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Leptailurus_serval,1,LC,100,0,hyper,1,11999.97,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Lynx_canadensis,1,LC,100,0,hyper,1,9373.25,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Lynx_lynx,1,LC,100,0,hyper,1,17950,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Lynx_pardinus,1,EN,100,0,hyper,1,9400,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Lynx_rufus,1,LC,100,0,hyper,1,8904.1,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Neofelis_diardi,1,VU,100,0,hyper,1,19675.75,,"Christiansen, P. (2009). Neotype of Neofelis diardi (Mammalia: Carnivora: Felidae). Zootaxa. 2110: 58-68.",1,measured from image in manuscript,0,0,0,0,0,0,1,Hyper,hyper
+Neofelis_nebulosa,1,VU,100,0,hyper,1,19675.75,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Otocolobus_manul,1,NT,100,0,hyper,1,3050,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Panthera_leo,1,VU,100,0,hyper,2,161499.06,,VV1989,2,,0,1,0,0,0,0,1,Hyper,hyper
+Panthera_onca,1,NT,100,0,hyper,1,100000,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Panthera_pardus,1,VU,100,0,hyper,1,52038.22,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Panthera_tigris,1,EN,100,0,hyper,1,162564,,VV1989,2,,0,0,0,0,0,0,1,Hyper,hyper
+Panthera_uncia,1,VU,100,0,hyper,1,NA,,VV1989,2,Uncia uncia in Elton Traits,0,0,0,0,0,0,1,Hyper,hyper
+Pardofelis_marmorata,1,NT,100,0,hyper,1,2854.25,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Prionailurus_bengalensis,1,LC,100,0,hyper,1,3300,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Prionailurus_planiceps,1,EN,100,0,hyper,1,6750,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Prionailurus_rubiginosus,1,NT,100,0,hyper,1,1384.38,,Slater&Friscia2019,U,,0,0,0,0,0,0,1,Hyper,hyper
+Puma_concolor,1,LC,100,0,hyper,1,51600.04,,VV1989,1,,0,0,0,0,0,0,1,Hyper,hyper
