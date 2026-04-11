@@ -6,3 +6,8 @@
 .quarto
 inputs/MAMMALS_TERRESTRIAL_ONLY/inputs/MAMMALS_TERRESTRIAL_ONLY/
 inputs/MAMMALS_TERRESTRIAL_ONLY/
+.RDataTmp*
+
+Koobi_fora_updated.R
+scripts/old/
+.RDataTmp*
