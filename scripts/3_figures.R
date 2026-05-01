@@ -151,6 +151,12 @@ veg_africa_sf <- SpatialPointsDataFrame(ecometricModels[["veg_africa"]]$points_d
 
 st_crs(temp_africa_sf) <- st_crs(veg_africa_sf) <- st_crs(precip_africa_sf) <- st_crs(temp_globa_sf) <- st_crs(veg_globa_sf) <- st_crs(precip_globa_sf) <- st_crs(continents)
 
+precip_globa_sf <- precip_globa_sf %>%
+  mutate(env_anom_z = as.numeric(scale(env_anom)))
+
+temp_globa_sf <- temp_globa_sf %>%
+  mutate(env_anom_z = as.numeric(scale(env_anom)))
+
 # Define shared color palettes
 anomaly_col <- c("#1dd3b0", "#fdf0d5", "#858ae3")
 veg_col <- c("Yes" = "#fdf0d5", "No" = "#858ae3")
@@ -158,18 +164,17 @@ veg_col <- c("Yes" = "#fdf0d5", "No" = "#858ae3")
 # ---------------- GLOBAL MAPS ---------------- #
 
 plot_precip_global <- ggplot() +
-  geom_sf(data = precip_globa_sf, aes(color = env_anom),
+  geom_sf(data = precip_globa_sf, aes(color = env_anom_z),
           size = 0.5, pch = 16) +
   geom_sf(data = continents, fill = NA, color = "black", size = 0.1) +
   scale_color_gradientn(
-    limits = c(-8, 7),
+    limits = c(-3, 3),
     colors = anomaly_col,
     name = "Anomaly",
     na.value = "transparent",
-    breaks = c(-8, 0, 7),
-    labels = c(-8, 0, 7)
-  ) + theme_void() +theme(legend.position = "none")
-
+    breaks = c(-3, 0, 3),
+    labels = c(-3, 0, 3)
+  ) + theme_void() + theme(legend.position = "none")
 
 ggsave("figures/anomaly_precip_global.png",
        plot = plot_precip_global,
@@ -177,22 +182,21 @@ ggsave("figures/anomaly_precip_global.png",
 
 
 plot_temp_global <- ggplot() +
-  geom_sf(data = temp_globa_sf, aes(color = env_anom),
+  geom_sf(data = temp_globa_sf, aes(color = env_anom_z),
           size = 0.5, pch = 16) +
   geom_sf(data = continents, fill = NA, color = "black", size = 0.1) +
   scale_color_gradientn(
-    limits = c(-44, 40),
+    limits = c(-3, 3),
     colors = anomaly_col,
     name = "Anomaly",
     na.value = "transparent",
-    breaks = c(-44, 0, 40),
-    labels = c(-44, 0, 40)
-  ) + theme_void() +theme(legend.position = "none")
+    breaks = c(-3, 0, 3),
+    labels = c(-3, 0, 3)
+  ) + theme_void() + theme(legend.position = "none")
 
 ggsave("figures/anomaly_temp_global.png",
        plot = plot_temp_global,
        width = 10, height = 8, units = "cm")
-
 
 plot_veg_global <- ggplot() +
   geom_sf(data = veg_globa_sf, aes(color = factor(correct_prediction)),
