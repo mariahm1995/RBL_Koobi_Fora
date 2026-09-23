@@ -305,23 +305,3 @@ lapply(names(ecometricModels)[3:4], function(i){
   ggsave(paste0("figures/ecospace_", names(ecometricModels[i]), ".png"),
          width = 15, height = 12, units = "cm")
 })
-
-# lapply(names(ecometricModels)[1:2], function(i){
-#   ecometricModel <- ecometricModels[[i]]
-#   ecometric_space(
-#     model_out   = ecometricModel,
-#     palette = pal_temp,
-#     env_name    = "Precipitation",
-#     fossil_data = koobi_global_temp,
-#     modern_color = "white",
-#     x_label     = NULL,
-#     y_label     = NULL) +   
-#     geom_text(data = text_global_veg, 
-#               aes(x = x, y = y, label = point),
-#               inherit.aes = FALSE, size = 4, 
-#               color = "black") +
-#     theme(axis.text = element_text(size = 18))
-#   
-#   ggsave(paste0("figures/ecospace_", names(ecometricModels[i]), ".png"),
-#          width = 15, height = 12, units = "cm")
-# })

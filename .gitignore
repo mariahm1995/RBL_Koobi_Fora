@@ -11,3 +11,4 @@ inputs/MAMMALS_TERRESTRIAL_ONLY/
 Koobi_fora_updated.R
 scripts/old/
 .RDataTmp*
+.positai

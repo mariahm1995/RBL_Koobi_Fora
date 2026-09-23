@@ -14,7 +14,7 @@ africa_shp <- rnaturalearth::ne_countries(scale = "medium",
 
 ecometricModels <- readRDS("outputs/ecometricModels.RDS")
 
-koobi_fora <- read.csv("outputs/koobi_paleo_summary_nov.csv")
+koobi_fora <- read.csv("outputs/koobi_paleo_summary.csv")
 
 points <- read.csv("inputs/S_L_allpointsdata2.csv") %>% 
   select(GlobalID, Longitude, Latitude)
@@ -42,28 +42,28 @@ ggsave("figures/Kenya.png",width = 15, height = 13, units = "cm")
 # Figure 5
 
 Time_A <- ecometricModels[["precip_global"]]$points_df %>%
-  filter(bin_1 == koobi_fora$global_fossil_bin_1[1]) %>% 
-  filter(bin_2 == koobi_fora$global_fossil_bin_2[1]) %>% 
+  filter(bin_1 == koobi_fora$temp_global_fossil_bin_1[1]) %>% 
+  filter(bin_2 == koobi_fora$temp_global_fossil_bin_2[1]) %>% 
   mutate(time = "A")
   
 Time_B <- ecometricModels[["precip_global"]]$points_df %>%
-  filter(bin_1 == koobi_fora$global_fossil_bin_1[2]) %>% 
-  filter(bin_2 == koobi_fora$global_fossil_bin_2[2]) %>% 
+  filter(bin_1 == koobi_fora$temp_global_fossil_bin_1[2]) %>% 
+  filter(bin_2 == koobi_fora$temp_global_fossil_bin_2[2]) %>% 
   mutate(time = "B")
 
 Time_C <- ecometricModels[["precip_global"]]$points_df %>%
-  filter(bin_1 == koobi_fora$global_fossil_bin_1[3]) %>% 
-  filter(bin_2 == koobi_fora$global_fossil_bin_2[3])  %>% 
+  filter(bin_1 == koobi_fora$temp_global_fossil_bin_1[3]) %>% 
+  filter(bin_2 == koobi_fora$temp_global_fossil_bin_2[3])  %>% 
   mutate(time = "C")
 
 Time_D <- ecometricModels[["precip_global"]]$points_df %>%
-  filter(bin_1 == koobi_fora$global_fossil_bin_1[4]) %>% 
-  filter(bin_2 == koobi_fora$global_fossil_bin_2[4])  %>% 
+  filter(bin_1 == koobi_fora$temp_global_fossil_bin_1[4]) %>% 
+  filter(bin_2 == koobi_fora$temp_global_fossil_bin_2[4])  %>% 
   mutate(time = "D")
 
 Time_E <- ecometricModels[["precip_global"]]$points_df %>%
-  filter(bin_1 == koobi_fora$global_fossil_bin_1[5]) %>% 
-  filter(bin_2 == koobi_fora$global_fossil_bin_2[5])  %>% 
+  filter(bin_1 == koobi_fora$temp_global_fossil_bin_1[5]) %>% 
+  filter(bin_2 == koobi_fora$temp_global_fossil_bin_2[5])  %>% 
   mutate(time = "E")
 
 times_df <- rbind(Time_A, Time_B, Time_C, Time_D, Time_E)
@@ -91,23 +91,23 @@ times_map <- ggplot() +
 ggsave("figures/times_map.png", plot = times_map, width = 6, height = 3, dpi = 300)
 
 Time_B_africa <- ecometricModels[["precip_africa"]]$points_df %>%
-  filter(bin_1 == koobi_fora$africa_fossil_bin_1[2]) %>% 
-  filter(bin_2 == koobi_fora$africa_fossil_bin_2[2]) %>% 
+  filter(bin_1 == koobi_fora$temp_africa_fossil_bin_1[2]) %>% 
+  filter(bin_2 == koobi_fora$temp_africa_fossil_bin_2[2]) %>% 
   mutate(time = "B")
 
 Time_C_africa <- ecometricModels[["precip_africa"]]$points_df %>%
-  filter(bin_1 == koobi_fora$africa_fossil_bin_1[3]) %>% 
-  filter(bin_2 == koobi_fora$africa_fossil_bin_2[3])  %>% 
+  filter(bin_1 == koobi_fora$temp_africa_fossil_bin_1[3]) %>% 
+  filter(bin_2 == koobi_fora$temp_africa_fossil_bin_2[3])  %>% 
   mutate(time = "C")
 
 Time_D_africa <- ecometricModels[["precip_africa"]]$points_df %>%
-  filter(bin_1 == koobi_fora$africa_fossil_bin_1[4]) %>% 
-  filter(bin_2 == koobi_fora$africa_fossil_bin_2[4])  %>% 
+  filter(bin_1 == koobi_fora$temp_africa_fossil_bin_1[4]) %>% 
+  filter(bin_2 == koobi_fora$temp_africa_fossil_bin_2[4])  %>% 
   mutate(time = "D")
 
 Time_E_africa <- ecometricModels[["precip_africa"]]$points_df %>%
-  filter(bin_1 == koobi_fora$africa_fossil_bin_1[5]) %>% 
-  filter(bin_2 == koobi_fora$africa_fossil_bin_2[5])  %>% 
+  filter(bin_1 == koobi_fora$temp_africa_fossil_bin_1[5]) %>% 
+  filter(bin_2 == koobi_fora$temp_africa_fossil_bin_2[5])  %>% 
   mutate(time = "E")
 
 times_df_africa <- rbind(Time_B_africa, Time_C_africa, Time_D_africa, Time_E_africa)
@@ -180,7 +180,6 @@ ggsave("figures/anomaly_precip_global.png",
        plot = plot_precip_global,
        width = 10, height = 8, units = "cm")
 
-
 plot_temp_global <- ggplot() +
   geom_sf(data = temp_globa_sf, aes(color = env_anom_z),
           size = 0.5, pch = 16) +
@@ -230,7 +229,6 @@ ggsave("figures/anomaly_precip_africa.png",
        plot = plot_precip_africa,
        width = 10, height = 8, units = "cm")
 
-
 plot_temp_africa <- ggplot() +
   geom_sf(data = temp_africa_sf, aes(color = env_anom),
           size = 0.8, pch = 16) +
@@ -248,7 +246,6 @@ plot_temp_africa <- ggplot() +
 ggsave("figures/anomaly_temp_africa.png",
        plot = plot_temp_africa,
        width = 10, height = 8, units = "cm")
-
 
 plot_veg_africa <- ggplot() +
   geom_sf(data = veg_africa_sf, aes(color = factor(correct_prediction)),

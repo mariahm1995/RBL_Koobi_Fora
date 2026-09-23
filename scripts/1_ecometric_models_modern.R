@@ -15,11 +15,23 @@ points <- read.csv("inputs/S_L_allpointsdata2.csv") %>%
 
 RBL_data <- read.csv("inputs/RBL_global_Dec2023.csv")
 
+# Download the input spatial dataset archived on Figshare.
+# The timeout is increased because the compressed file may take longer
+# than the default R download timeout, depending on the connection speed.
+
+options(timeout = 600)
+download.file(
+  "https://ndownloader.figshare.com/files/69277312",
+  destfile = "inputs/data.zip", mode = "wb")
+
+unzip("inputs/data.zip", exdir = "inputs")
+
 geometry <- sf::st_read("inputs/MAMMALS_TERRESTRIAL_ONLY/MAMMALS_TERRESTRIAL_ONLY.shp")
 
 geography_carnivora <- geometry %>% 
   filter(order_ == "CARNIVORA") %>% 
   filter(origin != 3)
+
 geography_carnivora$sci_name <- gsub(" ", "_", geography_carnivora$sci_name)
 
 # Community trait values ----
