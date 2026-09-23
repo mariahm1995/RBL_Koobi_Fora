@@ -114,7 +114,7 @@ plot_analog_curve <- function(data) {
       labels = scales::label_number(accuracy = 1)
     ) +
     scale_y_continuous(limits = c(0, 100), breaks = seq(0, 100, 20)) +
-    labs(x = "Species richness", y = "Communities with a modern analog (%)") +
+    labs(x = "Species richness", y = "Fossil communities with a modern analog (%)") +
     theme_bw() +
     theme(
       strip.background = element_blank(),
